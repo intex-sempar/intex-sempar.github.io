@@ -8,9 +8,9 @@ permalink: /cfp
 # Call for Papers
 Executable semantic parsers map natural language utterances to meaning representations that can be executed in a particular context such as databases, knowledge graphs, robotic environment, and software applications. The field has become increasingly important as it allows users to seek information and control computer systems naturally and flexibly via interactive exchanges in natural language. We envision that practical semantic parsing systems need to be equipped with three core capabilities: 
 
-    - Understanding user utterances in context and mapping them to executable forms.
-    - Clarifying ambiguous utterances and providing guidance for user to form valid input.
-    - Providing a faithful explanation of its interpreted actions for user verification and feedback.
+- Understanding user utterances in context and mapping them to executable forms.
+- Clarifying ambiguous utterances and providing guidance for user to form valid input.
+- Providing a faithful explanation of its interpreted actions for user verification and feedback.
 
 To this end, the problem of mapping well-formed, individual natural language utterances to formal representations has been studied extensively.
 
@@ -19,27 +19,27 @@ There is also less focus on explainablility and trustworthiness, where the syste
 
 This workshop aims to bring together researchers and promote exciting work towards powerful, robust and reliable interactive executable semantic parsing systems. We seek submissions in two tracks:
 
-    - A research track for presenting novel contributions relevant but not limited to the directions mentioned above.
-    - A shared task track on the newly introduced conversational text-to-SQL challenge ([CoSQL](https://yale-lily.github.io/cosql)).
+- A research track for presenting novel contributions relevant but not limited to the directions mentioned above.
+- A shared task track on the newly introduced conversational text-to-SQL challenge ([CoSQL](https://yale-lily.github.io/cosql))
 
 We welcome submissions on research that broadly relates to interactive executable semantic parsing on topics including but not limited to:
 
-    - New Semantic Parsing Paradigms, Tasks, and Datasets
-    - New Methods for Semantic Parsing
-    - Evaluation Metrics for Semantic Parsing Systems
-    - Interactive Semantic Parsing
-    - Conversational Semantic Parsing
-    - Interpretability and and Trustworthiness of Semantic Parsing Systems
-    - Data Visualization in Semantic Parsing Systems
-    - Language Explanation of Semantic Parsing Systems
-    - Semantic Parsing in Databases
-    - Semantic Parsing in Knowledge Graphs
-    - Semantic Parsing in Robotics and Navigation
-    - Semantic Parsing in Game Environments
-    - Semantic Parsing in Software Applications
-    - Visually Grounded Semantic Parsing
-    - Multilingual Semantic Parsing
-    - Weakly Supervised Semantic Parsing
+- New Semantic Parsing Paradigms, Tasks, and Datasets
+- New Methods for Semantic Parsing
+- Evaluation Metrics for Semantic Parsing Systems
+- Interactive Semantic Parsing
+- Conversational Semantic Parsing
+- Interpretability and and Trustworthiness of Semantic Parsing Systems
+- Data Visualization in Semantic Parsing Systems
+- Language Explanation of Semantic Parsing Systems
+- Semantic Parsing in Databases
+- Semantic Parsing in Knowledge Graphs
+- Semantic Parsing in Robotics and Navigation
+- Semantic Parsing in Game Environments
+- Semantic Parsing in Software Applications
+- Visually Grounded Semantic Parsing
+- Multilingual Semantic Parsing
+- Weakly Supervised Semantic Parsing
 
 
 ## Important Dates (Tentative)
