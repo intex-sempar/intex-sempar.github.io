@@ -42,12 +42,15 @@ We welcome submissions on research that broadly relates to interactive executabl
 - Weakly Supervised Semantic Parsing
 
 
-## Important Dates (Tentative)
-- **July 20, 2020**: Submission deadline
-- **August 17, 2020**: Notification of acceptance
-- **August 31, 2020**: Camera-ready version deadline
+## Important Dates
+- **August 14, 2020**:              Submission deadline
+- **August 21-September 14, 2020**: Review Period
+- **September 15, 2020**:           Retraction of workshop papers accepted for EMNLP (main conference)
+- **September 29, 2020**:           Notification of acceptance
+- **October 10, 2020**:             Camera-ready version deadline
+- **November 19, 2020**:            Workshop (Online)
 
-All deadlines are 11:59 PM GMT -12 (Anywhere on Earth).
+All deadlines are 11:59 PM UTC -12h (Anywhere on Earth).
 
 
 ## Submission Guidelines
@@ -56,5 +59,6 @@ Accepted papers will be given 1 additional content page, so that reviewers' comm
 Please use the [standard ACL style files](https://2020.emnlp.org/call-for-papers) to format your papers and sumbit electronically via our [submission site](https://www.softconf.com/emnlp2020/intex-sempar2020/).
 Our reviewing policy is double-blind, and the submissions should be fully anonymized.
 We also allow submissions that are under review in other venues or have preprint versions.
+Especially, you can submit your EMNLP papers to this workshop as well
 
 
