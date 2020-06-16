@@ -59,6 +59,6 @@ Accepted papers will be given 1 additional content page, so that reviewers' comm
 Please use the [standard ACL style files](https://2020.emnlp.org/call-for-papers) to format your papers and sumbit electronically via our [submission site](https://www.softconf.com/emnlp2020/intex-sempar2020/).
 Our reviewing policy is double-blind, and the submissions should be fully anonymized.
 We also allow submissions that are under review in other venues or have preprint versions.
-Especially, you can submit your EMNLP papers to this workshop as well
+Especially, you can submit your EMNLP 2020 submissions to this workshop as well.
 
 
