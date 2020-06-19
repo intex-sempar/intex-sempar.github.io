@@ -29,12 +29,37 @@ TBD
 
 ## Invited Speakers (Tentative):
 
-- Yoav Artzi, Cornell University
-- Jonathan Berant, Tel Aviv University/Allen Institute for Artificial Intelligence
-- Richard Socher, Salesforce Research
-- Dilek Hakkani-Tur, Amazon Alexa AI
-- Alex Polozov, Microsoft Research
-- Mirella Lapata, The University of Edinburgh
+<table>
+  <tbody>
+    <tr>
+      <td width="25%"><a href="https://yoavartzi.com/"><img src="assets/images/artzi.png" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="http://www.cs.tau.ac.il/~joberant/"><img src="assets/images/berant.png" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://www.socher.org/"><img src="assets/images/socher.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en"><img src="assets/images/hakkani-tur.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://yoavartzi.com/">Yoav Artzi (Cornell)</a></td>
+      <td><a href="http://www.cs.tau.ac.il/~joberant/">Jonathan Berant (Tel Aviv University/AI2)</a></td>
+      <td><a href="https://www.socher.org/">Richard Socher (Salesforce Research)</a></td>
+      <td><a href="https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en">Dilek Hakkani-T&uuml;r (Amazon Alexa AI)</a></td>
+    </tr>
+    <tr>
+      <td width="25%"><a href="https://alexpolozov.com/"><img src="assets/images/polozov.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://homepages.inf.ed.ac.uk/mlap/"><img src="assets/images/lapata.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://alexpolozov.com/">Alex Polozov (Microsoft Research)</a></td>
+      <td><a href="https://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata (The University of Edinburgh)</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- - [Yoav Artzi](https://yoavartzi.com/), Cornell University
+- [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/), Tel Aviv University/Allen Institute for Artificial Intelligence
+- [Richard Socher](https://www.socher.org/), Salesforce Research
+- [Dilek Hakkani-T&uuml;r](https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en), Amazon Alexa AI
+- [Alex Polozov](https://alexpolozov.com/), Microsoft Research
+- [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/), The University of Edinburgh -->
 
 ## Steering Committee:
 - [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/), Tel-Aviv University
