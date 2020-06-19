@@ -71,13 +71,13 @@ TBD
       <td width="25%"><a href="http://www.cs.tau.ac.il/~joberant/"><img src="assets/images/berant.png" width="120px" align="bottom" style="border-radius: 50%"></a></td>
       <td width="25%"><a href="http://www.phontron.com/"><img src="assets/images/neubig.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
       <td width="25%"><a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli"><img src="assets/images/yunyaoli.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="http://www.stat.ucla.edu/~caiming/"><img src="assets/images/xiong.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="http://cmxiong.com/"><img src="assets/images/xiong.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
       <td><a href="http://www.cs.tau.ac.il/~joberant/">Jonathan Berant (Tel Aviv University/AI2)</a></td>
       <td><a href="http://www.phontron.com/">Graham Neubig (CMU)</a></td>
       <td><a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli">Yunyao Li (IBM Research)</a></td>
-      <td><a href="http://www.stat.ucla.edu/~caiming/">Caiming Xiong (Salesforce Research)</a></td>
+      <td><a href="http://cmxiong.com/">Caiming Xiong (Salesforce Research)</a></td>
     </tr>
     <tr>
       <td width="25%"><a href="https://www.cs.yale.edu/homes/radev/"><img src="assets/images/radev.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
