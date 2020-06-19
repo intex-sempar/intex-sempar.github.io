@@ -67,9 +67,9 @@ TBD
   <tbody>
     <tr>
       <td width="25%"><a href="http://www.cs.tau.ac.il/~joberant/"><img src="assets/images/berant.png" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="http://www.phontron.com/"><img src="assets/images/neubig.png" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="http://www.phontron.com/"><img src="assets/images/neubig.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
       <td width="25%"><a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli"><img src="assets/images/yunyaoli.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="http://www.stat.ucla.edu/~caiming/"><img src="assets/images/caimingxiong.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="http://www.stat.ucla.edu/~caiming/"><img src="assets/images/xiong.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
       <td><a href="http://www.cs.tau.ac.il/~joberant/">Jonathan Berant (Tel Aviv University/AI2)</a></td>
@@ -78,7 +78,7 @@ TBD
       <td><a href="http://www.stat.ucla.edu/~caiming/"></a>Caiming Xiong (Salesforce Research)</td>
     </tr>
     <tr>
-      <td width="25%"><a href="https://www.cs.yale.edu/homes/radev/"><img src="assets/images/radev.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://www.cs.yale.edu/homes/radev/"><img src="assets/images/radev.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
       <td width="25%"><a href="https://www.cs.washington.edu/people/faculty/lsz"><img src="assets/images/zettlemoyer.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
