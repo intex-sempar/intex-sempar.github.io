@@ -106,9 +106,9 @@ TBD
     </tr>
     <tr>
       <td><a href="https://benbogin.github.io/">Ben Bogin (Tel Aviv University)</a></td>
-      <td><a href="http://sriniiyer.github.io/"></a>Srinivasan Iyer (University of Washington)</td>
-      <td><a href="http://victorialin.net/"></a>Victoria Lin (Salesforce Research)</td>
-      <td><a href="http://alanesuhr.com/"></a>Alane Suhr (Cornell University)</td>
+      <td><a href="http://sriniiyer.github.io/">Srinivasan Iyer (University of Washington)</a></td>
+      <td><a href="http://victorialin.net/">Victoria Lin (Salesforce Research)</a></td>
+      <td><a href="http://alanesuhr.com/">Alane Suhr (Cornell University)</a></td>
     </tr>
     <tr>
       <td width="25%"><a href="https://ppasupat.github.io/"><img src="assets/images/pasupat.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
@@ -118,9 +118,9 @@ TBD
     </tr>
     <tr>
       <td><a href="https://ppasupat.github.io/">Panupong (Ice) Pasupat (Google)</a></td>
-      <td><a href="http://pcyin.me/"></a>Pengcheng Yin (CMU)</td>
-      <td><a href="https://taoyds.github.io/"></a>Tao Yu (Yale University)</td>
-      <td><a href="https://ryanzhumich.github.io/"></a>Rui Zhang (Yale University -> Penn State University)</td>
+      <td><a href="http://pcyin.me/">Pengcheng Yin (CMU)</a></td>
+      <td><a href="https://taoyds.github.io/">Tao Yu (Yale University)</a></td>
+      <td><a href="https://ryanzhumich.github.io/">Rui Zhang (Yale University -> Penn State University)</a></td>
     </tr>
     <tr>
       <td width="25%"><a href="https://www.victorzhong.com/"><img src="assets/images/zhong.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
