@@ -23,8 +23,8 @@ This workshop aims to bring together researchers and promote exciting work towar
 - A research track for presenting novel contributions relevant but not limited to the directions mentioned above.
 - A shared task track on the newly introduced conversational text-to-SQL challenge ([CoSQL](https://yale-lily.github.io/cosql))
 
-<div class="twitter-block">
-  <a class="twitter-timeline" style="font-size:80%" href="https://twitter.com/intexsempar2020?ref_src=twsrc%5Etfw">Tweets by intexsempar2020</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-block" data-width="80%">
+  <a class="twitter-timeline" href="https://twitter.com/intexsempar2020?ref_src=twsrc%5Etfw">Tweets by intexsempar2020</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- <a class="twitter-timeline" data-width="500" data-height="400" data-theme="light" href="https://twitter.com/intexsempar2020?ref_src=twsrc%5Etfw">Tweets by intexsempar2020</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 </div>
