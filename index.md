@@ -103,7 +103,7 @@ TBD
     <tr>
       <td width="25%"><a href="https://benbogin.github.io/"><img src="assets/images/bogin.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
       <td width="25%"><a href="http://sriniiyer.github.io/"><img src="assets/images/iyer.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="http://victorialin.net/"><img src="assets/images/lin.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="http://victorialin.net/"><img src="assets/images/lin.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
       <td width="25%"><a href="http://alanesuhr.com/"><img src="assets/images/suhr.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
