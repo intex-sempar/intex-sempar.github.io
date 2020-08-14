@@ -45,7 +45,7 @@ We welcome submissions on research that broadly relates to interactive executabl
 ## Important Dates
 - <s>**August 14, 2020**:              Submission deadline</s>
 - **August 21, 2020**:              Submission deadline extended!
-- **August 21-September 14, 2020**: Review Period
+- **August 22-September 14, 2020**: Review Period
 - **September 15, 2020**:           Retraction of workshop papers accepted for EMNLP (main conference)
 - **September 29, 2020**:           Notification of acceptance
 - **October 10, 2020**:             Camera-ready version deadline
