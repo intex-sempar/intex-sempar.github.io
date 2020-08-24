@@ -21,7 +21,7 @@ permalink: /organization
 - [Panupong (Ice) Pasupat](https://ppasupat.github.io/), Google
 - [Pengcheng Yin](http://pcyin.me/), Carnegie Mellon University
 - [Tao Yu](https://taoyds.github.io/), Yale University
-- [Rui Zhang](https://ryanzhumich.github.io/), Yale University -> Penn State University
+- [Rui Zhang](https://ryanzhumich.github.io/), Penn State University
 - [Victor Zhong](https://www.victorzhong.com/), University of Washington
 
 ## Program Committee:

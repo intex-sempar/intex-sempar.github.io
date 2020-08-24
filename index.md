@@ -122,7 +122,7 @@ TBD
       <td><a href="https://ppasupat.github.io/">Panupong (Ice) Pasupat (Google)</a></td>
       <td><a href="http://pcyin.me/">Pengcheng Yin (CMU)</a></td>
       <td><a href="https://taoyds.github.io/">Tao Yu (Yale University)</a></td>
-      <td><a href="https://ryanzhumich.github.io/">Rui Zhang (Yale University -> Penn State University)</a></td>
+      <td><a href="https://ryanzhumich.github.io/">Rui Zhang (Penn State University)</a></td>
     </tr>
     <tr>
       <td width="25%"><a href="https://www.victorzhong.com/"><img src="assets/images/zhong.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
