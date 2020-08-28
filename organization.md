@@ -59,6 +59,7 @@ permalink: /organization
 - Scott Yih, Facebook AI Research
 - Silei Xu, Stanford
 - Yi Chern Tan, Yale
+- Shuaichen Chang, OSU
 
 
 {: .two-column}
