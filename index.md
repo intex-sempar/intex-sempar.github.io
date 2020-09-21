@@ -5,6 +5,11 @@ order: 1
 collection: pages_2020
 ---
 
+## NEW: Present your "Findings of EMNLP" papers on our workshop
+
+We invited authors of "Findings of EMNLP" paper to present at our workshop!
+You can submit your papers to our submission system (https://www.softconf.com/emnlp2020/intex-sempar2020/), or email us at intex-sempar@googlegroups.com with your paper information.
+
 ## Overview
 
 Executable semantic parsers map natural language utterances to meaning representations that can be executed in a particular context such as databases, knowledge graphs, robotic environment, and software applications. The field has become increasingly important as it allows users to seek information and control computer systems naturally and flexibly via interactive exchanges in natural language. We envision that practical semantic parsing systems need to be equipped with three core capabilities: 
