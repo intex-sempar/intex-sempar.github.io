@@ -7,8 +7,9 @@ collection: pages_2020
 
 ## NEW: Present your "Findings of EMNLP" papers on our workshop
 
-We invited authors of "Findings of EMNLP" paper to present at our workshop!
-You can submit your papers to our submission system (https://www.softconf.com/emnlp2020/intex-sempar2020/), or email us at intex-sempar@googlegroups.com with your paper information.
+We invited authors of accepted "Findings of EMNLP" papers to present at our workshop!
+We welcome any papers fitted in our workshop CFP topics.
+You can submit your papers to our submission system (https://www.softconf.com/emnlp2020/intex-sempar2020/), or directly email us at intex-sempar@googlegroups.com with your paper information.
 
 ## Overview
 
