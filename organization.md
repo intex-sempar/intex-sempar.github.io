@@ -60,6 +60,13 @@ permalink: /organization
 - Silei Xu, Stanford
 - Yi Chern Tan, Yale
 - Shuaichen Chang, OSU
+- Tianze Shi, Cornell
+- Songhe Wang, UNC
+- Ansong Ni, Yale
+- Chang Shu, University of Edinburgh
+- Ruiqi Zhong, UC-Berkeley 
+- Peng Shi, University of Waterloo
+- Yusen Zhang, Emory University
 
 
 {: .two-column}
