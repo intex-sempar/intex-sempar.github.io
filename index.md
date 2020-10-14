@@ -29,11 +29,11 @@ This workshop aims to bring together researchers and promote exciting work towar
 
 Thursday Nov 19, 2020 Pacific Time
 <br>
-08:15–08:30 Opening Remarks
+08:15–08:30 &nbsp;&nbsp; Opening Remarks
 <br>
-08:30–09:30 Invited Talk: Mirella Lapata
+08:30–09:30 | Invited Talk: Mirella Lapata
 <br>
-09:30–10:30 Invited Talk: Jonathan Berant
+09:30–10:30 | Invited Talk: Jonathan Berant
 <br>
 10:30–10:50 Break
 <br>
