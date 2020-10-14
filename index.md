@@ -5,13 +5,7 @@ order: 1
 collection: pages_2020
 ---
 
-## NEW: Present your "Findings of EMNLP" papers at our workshop
-
-We invited the authors of the accepted "Findings of EMNLP" papers to present at our workshop!
-We welcome any papers fitted in our workshop CFP topics.
-You can submit your papers to our submission system (https://www.softconf.com/emnlp2020/intex-sempar2020/), or directly email us at intex-sempar@googlegroups.com with your paper information.
-
-## Overview
+<!-- ## Overview
 
 Executable semantic parsers map natural language utterances to meaning representations that can be executed in a particular context such as databases, knowledge graphs, robotic environment, and software applications. The field has become increasingly important as it allows users to seek information and control computer systems naturally and flexibly via interactive exchanges in natural language. We envision that practical semantic parsing systems need to be equipped with three core capabilities: 
 
@@ -29,11 +23,32 @@ This workshop aims to bring together researchers and promote exciting work towar
 - A research track for presenting novel contributions relevant but not limited to the directions mentioned above.
 - A shared task track on the newly introduced conversational text-to-SQL challenge ([CoSQL](https://yale-lily.github.io/cosql))
 
-<a class="twitter-timeline tw-align-center" data-width="80%" margin="auto" text-align="center" href="https://twitter.com/intexsempar2020?ref_src=twsrc%5Etfw">Tweets by intexsempar2020</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline tw-align-center" data-width="80%" margin="auto" text-align="center" href="https://twitter.com/intexsempar2020?ref_src=twsrc%5Etfw">Tweets by intexsempar2020</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-## Program Schedule
+## Program Schedule (Tentative)
 
-TBD
+Thursday Nov 19, 2020 Pacific Time
+<br>
+08:15–08:30 Opening Remarks
+<br>
+08:30–09:30 Invited Talk: Mirella Lapata
+<br>
+09:30–10:30 Invited Talk: Jonathan Berant
+<br>
+10:30–10:50 Break
+<br>
+10:50–11:00 Learning Adaptive Language Interfaces through Decomposition
+<br>
+11:00–11:10 Improving Sequence-to-Sequence Semantic Parser for Task Oriented Dialog
+<br>
+11:10–11:20 Uncertainty and Traffic-Aware Active Learning for Semantic Parsing
+<br>
+11:20–11:30 Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL
+<br>
+11:30–12:30 Invited Talk: Yoav Artzi
+<br>
+12:30–13:30 Poster Presentation in gather.town
+
 
 ## Invited Speakers (Tentative)
 

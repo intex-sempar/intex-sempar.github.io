@@ -5,6 +5,12 @@ order: 4
 collection: pages_2020
 permalink: /cfp
 ---
+# NEW: Present your "Findings of EMNLP" papers at our workshop
+
+We invited the authors of the accepted "Findings of EMNLP" papers to present at our workshop!
+We welcome any papers fitted in our workshop CFP topics.
+You can submit your papers to our submission system (https://www.softconf.com/emnlp2020/intex-sempar2020/), or directly email us at intex-sempar@googlegroups.com with your paper information.
+
 # Call for Papers
 Executable semantic parsers map natural language utterances to meaning representations that can be executed in a particular context such as databases, knowledge graphs, robotic environment, and software applications. The field has become increasingly important as it allows users to seek information and control computer systems naturally and flexibly via interactive exchanges in natural language. We envision that practical semantic parsing systems need to be equipped with three core capabilities: 
 
