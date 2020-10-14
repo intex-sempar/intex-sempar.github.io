@@ -48,7 +48,26 @@ Thursday Nov 19, 2020 Pacific Time
 11:30–12:30 Invited Talk: Yoav Artzi
 <br>
 12:30–13:30 Poster Presentation in gather.town
-
+<br>
+13:30–14:30 Invited Talk: Dilek Hakkani-Tür
+<br>
+14:30–14:40 QA2Explanation: Generating and Evaluating Explanations for Question Answering Systems over Knowledge Graph
+<br>
+14:40–14:50 ColloQL: Robust Text-to-SQL Over Search Queries
+<br>
+14:50–15:00 GRAPPA: Grammar-Augmented Pre-Training for Table Semantic Parsing
+<br>
+15:00–15:10 Re-thinking Open-domain Semantic Parsing
+<br>
+15:10–15:20 Natural Language Response Generation from SQL with Generalization and Back-translation
+<br>
+15:20–15:30 Break
+<br>
+15:30–16:30 Invited Talk: Alex Polozov
+<br>
+16:30–17:30 Invited Talk: Richard Socher
+<br>
+17:30–17:35 Closing remarks
 
 ## Invited Speakers (Tentative)
 
