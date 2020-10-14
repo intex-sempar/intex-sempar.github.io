@@ -7,7 +7,7 @@ permalink: /papers
 ---
 Congratulations to all of the authors, and thanks to all of our reviewers for their hard work!
 
-# Accepted Papers
+<!-- # Accepted Papers -->
 
 QA2Explanation: Generating and Evaluating Explanations for Question Answering Systems over Knowledge Graph<br>
 Saeedeh Shekarpour, Abhishek Nadgeri and Kuldeep Singh<br><br>

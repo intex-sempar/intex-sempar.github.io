@@ -29,45 +29,45 @@ This workshop aims to bring together researchers and promote exciting work towar
 
 Thursday Nov 19, 2020 Pacific Time
 <br>
-08:15–08:30 &nbsp;&nbsp; Opening Remarks
+08:15–08:30 &nbsp;&nbsp;&nbsp; Opening Remarks
 <br>
-08:30–09:30 | Invited Talk: Mirella Lapata
+08:30–09:30 &nbsp;&nbsp;&nbsp; Invited Talk: Mirella Lapata
 <br>
-09:30–10:30 | Invited Talk: Jonathan Berant
+09:30–10:30 &nbsp;&nbsp;&nbsp; Invited Talk: Jonathan Berant
 <br>
-10:30–10:50 Break
+10:30–10:50 &nbsp;&nbsp;&nbsp; Break
 <br>
-10:50–11:00 Learning Adaptive Language Interfaces through Decomposition
+10:50–11:00 &nbsp;&nbsp;&nbsp; Learning Adaptive Language Interfaces through Decomposition
 <br>
-11:00–11:10 Improving Sequence-to-Sequence Semantic Parser for Task Oriented Dialog
+11:00–11:10 &nbsp;&nbsp;&nbsp; Improving Sequence-to-Sequence Semantic Parser for Task Oriented Dialog
 <br>
-11:10–11:20 Uncertainty and Traffic-Aware Active Learning for Semantic Parsing
+11:10–11:20 &nbsp;&nbsp;&nbsp; Uncertainty and Traffic-Aware Active Learning for Semantic Parsing
 <br>
-11:20–11:30 Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL
+11:20–11:30 &nbsp;&nbsp;&nbsp; Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL
 <br>
-11:30–12:30 Invited Talk: Yoav Artzi
+11:30–12:30 &nbsp;&nbsp;&nbsp; Invited Talk: Yoav Artzi
 <br>
-12:30–13:30 Poster Presentation in gather.town
+12:30–13:30 &nbsp;&nbsp;&nbsp; Poster Presentation in gather.town
 <br>
-13:30–14:30 Invited Talk: Dilek Hakkani-Tür
+13:30–14:30 &nbsp;&nbsp;&nbsp; Invited Talk: Dilek Hakkani-Tür
 <br>
-14:30–14:40 QA2Explanation: Generating and Evaluating Explanations for Question Answering Systems over Knowledge Graph
+14:30–14:40 &nbsp;&nbsp;&nbsp; QA2Explanation: Generating and Evaluating Explanations for Question Answering Systems over Knowledge Graph
 <br>
-14:40–14:50 ColloQL: Robust Text-to-SQL Over Search Queries
+14:40–14:50 &nbsp;&nbsp;&nbsp; ColloQL: Robust Text-to-SQL Over Search Queries
 <br>
-14:50–15:00 GRAPPA: Grammar-Augmented Pre-Training for Table Semantic Parsing
+14:50–15:00 &nbsp;&nbsp;&nbsp; GRAPPA: Grammar-Augmented Pre-Training for Table Semantic Parsing
 <br>
-15:00–15:10 Re-thinking Open-domain Semantic Parsing
+15:00–15:10 &nbsp;&nbsp;&nbsp; Re-thinking Open-domain Semantic Parsing
 <br>
-15:10–15:20 Natural Language Response Generation from SQL with Generalization and Back-translation
+15:10–15:20 &nbsp;&nbsp;&nbsp; Natural Language Response Generation from SQL with Generalization and Back-translation
 <br>
-15:20–15:30 Break
+15:20–15:30 &nbsp;&nbsp;&nbsp; Break
 <br>
-15:30–16:30 Invited Talk: Alex Polozov
+15:30–16:30 &nbsp;&nbsp;&nbsp; Invited Talk: Alex Polozov
 <br>
-16:30–17:30 Invited Talk: Richard Socher
+16:30–17:30 &nbsp;&nbsp;&nbsp; Invited Talk: Richard Socher
 <br>
-17:30–17:35 Closing remarks
+17:30–17:35 &nbsp;&nbsp;&nbsp; Closing remarks
 
 ## Invited Speakers (Tentative)
 
