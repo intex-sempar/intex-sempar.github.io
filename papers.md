@@ -6,6 +6,7 @@ collection: pages_2020
 permalink: /papers
 ---
 Congratulations to all of the authors, and thanks to all of our reviewers for their hard work!
+A draft proceedings is available [here](assets/book.pdf).
 
 <!-- # Accepted Papers -->
 
