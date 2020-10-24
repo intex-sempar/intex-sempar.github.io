@@ -62,7 +62,6 @@ Findings of EMNLP 2020<br><br>
 
 CLAR: A Cross-Lingual Argument Regularizer for Semantic Role Labeling<br>
 Ishan Jindala, Yunyao Lia, Siddhartha Brahmab, Huaiyu Zhu<br>
-
 Findings of EMNLP 2020<br><br>
 
 Compressing Transformer-Based Semantic Parsing Models using Compositional Code Embeddings<br>
