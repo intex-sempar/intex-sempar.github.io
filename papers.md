@@ -53,7 +53,7 @@ Tianze Shi, Chen Zhao, Jordan Boyd-Graber, Hal Daumé III, Lillian Lee<br>
 Findings of EMNLP 2020<br><br>
 
 Service-oriented Text-to-SQL Parsing<br>
-Wangsu Hu et al.<br>
+Wangsu Hu, Jilei Tian<br>
 Findings of EMNLP 2020<br><br>
 
 Improving Compositional Generalization in Semantic Parsing<br>
@@ -61,7 +61,8 @@ Inbar Oren, Jonathan Herzig, Nitish Gupta, Matt Gardner, Jonathan Berant<br>
 Findings of EMNLP 2020<br><br>
 
 CLAR: A Cross-Lingual Argument Regularizer for Semantic Role Labeling<br>
-Ishan Jindal et al.<br>
+Ishan Jindala, Yunyao Lia, Siddhartha Brahmab, Huaiyu Zhu<br>
+
 Findings of EMNLP 2020<br><br>
 
 Compressing Transformer-Based Semantic Parsing Models using Compositional Code Embeddings<br>
