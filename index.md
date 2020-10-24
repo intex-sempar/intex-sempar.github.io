@@ -31,7 +31,7 @@ Thursday Nov 19, 2020 Pacific Time
 <br>
 08:15–08:30 &nbsp;&nbsp;&nbsp; Opening Remarks
 <br>
-08:30–09:30 &nbsp;&nbsp;&nbsp; Invited Talk: Mirella Lapata
+08:30–09:30 &nbsp;&nbsp;&nbsp; Invited Talk: Jacob Andreas
 <br>
 09:30–10:30 &nbsp;&nbsp;&nbsp; Invited Talk: Jonathan Berant
 <br>
@@ -87,11 +87,11 @@ Thursday Nov 19, 2020 Pacific Time
     </tr>
     <tr>
       <td width="25%"><a href="https://alexpolozov.com/"><img src="assets/images/polozov.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="https://homepages.inf.ed.ac.uk/mlap/"><img src="assets/images/lapata.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://www.mit.edu/~jda/"><img src="assets/images/andreas.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
       <td><a href="https://alexpolozov.com/">Alex Polozov (Microsoft Research)</a></td>
-      <td><a href="https://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata (The University of Edinburgh)</a></td>
+      <td><a href="https://www.mit.edu/~jda/">Jacob Andreas (MIT)</a></td>
     </tr>
   </tbody>
 </table>
