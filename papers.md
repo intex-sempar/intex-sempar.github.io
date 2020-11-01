@@ -31,7 +31,7 @@ Saptarashmi Bandyopadhyay and Tianyang Zhao<br><br>
 GRAPPA: Grammar-Augmented Pre-Training for Table Semantic Parsing<br>
 Tao Yu, Chien-Sheng Wu, Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir Radev, Richard Socher and Caiming Xiong<br><br>
 
-Re-thinking Open-domain Semantic Parsing<br>
+Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases<br>
 Yu Gu, Sue Kase, Michelle Vanni, Brian Sadler, Percy Liang, Xifeng Yan and Yu Su<br><br>
 
 Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL<br>

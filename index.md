@@ -57,7 +57,7 @@ Thursday Nov 19, 2020 Pacific Time
 <br>
 14:50–15:00 &nbsp;&nbsp;&nbsp; GRAPPA: Grammar-Augmented Pre-Training for Table Semantic Parsing
 <br>
-15:00–15:10 &nbsp;&nbsp;&nbsp; Re-thinking Open-domain Semantic Parsing
+15:00–15:10 &nbsp;&nbsp;&nbsp; Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases
 <br>
 15:10–15:20 &nbsp;&nbsp;&nbsp; Natural Language Response Generation from SQL with Generalization and Back-translation
 <br>
