@@ -25,7 +25,7 @@ This workshop aims to bring together researchers and promote exciting work towar
 
 <a class="twitter-timeline tw-align-center" data-width="80%" margin="auto" text-align="center" href="https://twitter.com/intexsempar2020?ref_src=twsrc%5Etfw">Tweets by intexsempar2020</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-## Program Schedule (Tentative)
+## Program Schedule
 
 Thursday Nov 19, 2020 Pacific Time
 <br>
@@ -69,7 +69,7 @@ Thursday Nov 19, 2020 Pacific Time
 <br>
 17:30–17:35 &nbsp;&nbsp;&nbsp; Closing remarks
 
-## Invited Speakers (Tentative)
+## Invited Speakers
 
 <table>
   <tbody>
