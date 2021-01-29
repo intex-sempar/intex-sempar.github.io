@@ -15,7 +15,7 @@ permalink: /organization
 
 ## Organizing Committee:
 - [Ben Bogin](https://benbogin.github.io/), Tel Aviv University 
-- [Srinivasan Iyer](http://sriniiyer.github.io/), University of Washington
+- [Srinivasan Iyer](http://sriniiyer.github.io/), Facebook AI
 - [Victoria Lin](http://victorialin.net/), Salesforce Research
 - [Alane Suhr](http://alanesuhr.com/), Cornell University
 - [Panupong (Ice) Pasupat](https://ppasupat.github.io/), Google

@@ -148,7 +148,7 @@ Thursday Nov 19, 2020 Pacific Time
     </tr>
     <tr>
       <td><a href="https://benbogin.github.io/">Ben Bogin (Tel Aviv University)</a></td>
-      <td><a href="http://sriniiyer.github.io/">Srinivasan Iyer (University of Washington)</a></td>
+      <td><a href="http://sriniiyer.github.io/">Srinivasan Iyer (Facebook AI)</a></td>
       <td><a href="http://victorialin.net/">Victoria Lin (Salesforce Research)</a></td>
       <td><a href="http://alanesuhr.com/">Alane Suhr (Cornell University)</a></td>
     </tr>
